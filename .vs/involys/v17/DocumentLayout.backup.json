@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\involys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\involys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\obj\\Debug\\net6.0-android\\Resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:involys\\obj\\Debug\\net6.0-android\\Resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\6.0.428\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\A\\Pictures\\involys_origin1\\involys\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\singleinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\singleinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\properties\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\properties\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\scanbarcode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\scanbarcode2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\scanbarcode1d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\scanbarcode1d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\writetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\writetag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\readtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\readtag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|c:\\users\\a\\pictures\\involys_origin1\\involys\\involys\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC860B39-5FD3-4158-A822-DB1D8A68F8E3}|involys\\involys.csproj|solutionrelative:involys\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\A\\Pictures\\involys_origin1\\involys\\Directory.Build.props||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Directory.Build.props||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-31T20:18:42.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "involys\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "involys\\Properties\\AndroidManifest.xml",
+              "ViewState": "AgIAACUAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-31T19:00:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingleInventory.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\SingleInventory.cs",
+              "RelativeDocumentMoniker": "involys\\SingleInventory.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\SingleInventory.cs",
+              "RelativeToolTip": "involys\\SingleInventory.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:45:06.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Inventory.cs",
+              "RelativeDocumentMoniker": "involys\\Inventory.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Inventory.cs",
+              "RelativeToolTip": "involys\\Inventory.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAEBVwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:44:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\obj\\Debug\\net6.0-android\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "involys\\obj\\Debug\\net6.0-android\\Resource.designer.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\obj\\Debug\\net6.0-android\\Resource.designer.cs",
+              "RelativeToolTip": "involys\\obj\\Debug\\net6.0-android\\Resource.designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:13:40.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "involys.csproj",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\involys.csproj",
+              "RelativeDocumentMoniker": "involys\\involys.csproj",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\involys.csproj",
+              "RelativeToolTip": "involys\\involys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T16:07:21.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScanBarcode2D.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\ScanBarcode2D.cs",
+              "RelativeDocumentMoniker": "involys\\ScanBarcode2D.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\ScanBarcode2D.cs",
+              "RelativeToolTip": "involys\\ScanBarcode2D.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:00:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScanBarcode1D.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\ScanBarcode1D.cs",
+              "RelativeDocumentMoniker": "involys\\ScanBarcode1D.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\ScanBarcode1D.cs",
+              "RelativeToolTip": "involys\\ScanBarcode1D.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:00:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Search.cs",
+              "RelativeDocumentMoniker": "involys\\Search.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Search.cs",
+              "RelativeToolTip": "involys\\Search.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAEBVwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:01:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadTag.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\ReadTag.cs",
+              "RelativeDocumentMoniker": "involys\\ReadTag.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\ReadTag.cs",
+              "RelativeToolTip": "involys\\ReadTag.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:00:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WriteTag.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\WriteTag.cs",
+              "RelativeDocumentMoniker": "involys\\WriteTag.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\WriteTag.cs",
+              "RelativeToolTip": "involys\\WriteTag.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T19:00:41.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\6.0.428\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\6.0.428\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-08-31T17:57:06.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\MainActivity.cs",
+              "RelativeDocumentMoniker": "involys\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\MainActivity.cs",
+              "RelativeToolTip": "involys\\MainActivity.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAUwJUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:37:22.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "involys\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\involys\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "involys\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:27:53.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\A\\Pictures\\involys_origin1\\involys\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T16:21:41.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

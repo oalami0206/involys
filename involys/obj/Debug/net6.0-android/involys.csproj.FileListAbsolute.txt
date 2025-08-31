@@ -1,0 +1,4 @@
+C:\Users\A\Pictures\involys_origin1\involys\involys\obj\Debug\net6.0-android\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\A\Pictures\involys_origin1\involys\involys\obj\Debug\net6.0-android\build.props
+C:\Users\A\Pictures\involys_origin1\involys\involys\obj\Debug\net6.0-android\adb.props
+C:\Users\A\Pictures\involys_origin1\involys\involys\obj\Debug\net6.0-android\involys.csproj.AssemblyReference.cache

@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-android</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>involys</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <!-- Android specific properties -->
+    <ApplicationId>com.companyname.involys</ApplicationId>
+    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <ApplicationTitle>Involys</ApplicationTitle>
+    
+    <!-- Target Android versions -->
+    <SupportedOSPlatformVersion>27</SupportedOSPlatformVersion>
+    <TargetSdkVersion>33</TargetSdkVersion>
+    
+    <!-- Build configuration -->
+    <AndroidUseAapt2>true</AndroidUseAapt2>
+    <AndroidCreatePackagePerAbi>false</AndroidCreatePackagePerAbi>
+    <AndroidSupportSkipVerifyVersions>true</AndroidSupportSkipVerifyVersions>
+    
+    <!-- Enable APK generation -->
+    <GenerateAppxPackageOnBuild>false</GenerateAppxPackageOnBuild>
+    <AndroidPackageFormat>apk</AndroidPackageFormat>
+  </PropertyGroup>
+
+  <!-- Release configuration for APK -->
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+    <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+    <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.AndroidX.Core" Version="1.6.0.5" />
+    <PackageReference Include="Xamarin.AndroidX.Fragment" Version="1.3.6.5" />
+    <PackageReference Include="Xamarin.AndroidX.AppCompat" Version="1.3.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NxMobSdk">
+      <HintPath>DLL\NxMobSdk v4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <!-- Include Android resources -->
+  <ItemGroup>
+    <AndroidResource Include="Resources\**\*" />
+  </ItemGroup>
+  
+  <!-- Include manifest -->
+  <ItemGroup>
+    <None Include="Properties\AndroidManifest.xml" />
+  </ItemGroup>
+
+</Project>

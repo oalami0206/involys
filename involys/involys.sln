@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "involys", "involys.csproj", "{D3D5A208-5D2D-46C3-AD2F-DA19326295D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D5A208-5D2D-46C3-AD2F-DA19326295D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D5A208-5D2D-46C3-AD2F-DA19326295D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D5A208-5D2D-46C3-AD2F-DA19326295D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D5A208-5D2D-46C3-AD2F-DA19326295D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14FEE279-6592-4A2A-BF6E-61680AC368C1}
+	EndGlobalSection
+EndGlobal

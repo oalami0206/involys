@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{D3D5A208-5D2D-46C3-AD2F-DA19326295D0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.involys PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Assets/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="obj/Release/net6.0/involys.AssemblyInfo.cs" Line="13" Column="12" />
+      <File FileName="Search.cs" Line="8" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="involys" expanded="True">
+            <Node name="involys" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
